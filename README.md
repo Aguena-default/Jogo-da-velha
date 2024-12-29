@@ -1,10 +1,9 @@
-# myapp
+# Jogo da velha
+Aitividade da disciplina de desenvolvimento web - Talento Tech
 
-A new Flutter project.
+## Ínicio  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Um simples projeto usando flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
